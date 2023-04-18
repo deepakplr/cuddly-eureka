@@ -1,1 +1,1 @@
-# cuddly-eureka
+Welcome to Git training!
