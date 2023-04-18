@@ -1,1 +1,1 @@
-instruction set 1
+sample instruction set 1
